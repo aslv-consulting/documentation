@@ -5,13 +5,11 @@
 - 🔸 Raccourcis clavier
   - 🔹 [Neovim](./shortcuts/neovim.md)
   - 🔹 [Zsh](./shortcuts/zsh.md)
-  - 🔹 [Brave](./shortcuts/brave.md)
 - 🔸 Processus
-  - 🔹 [Github](./process/github.md)
-  - 🔹 [Git](./process/git.md)
+  - 🔹 [Gestion des tâches](./process/tasks.md)
 - 🔸 Commandes
   - 🔹 [Neovim](./commands/neovim.md)
-  - 🔹 [Github](./commands/github.md)
+  - 🔹 [Github cli](./commands/github.md)
   - 🔹 [Git](./commands/git.md)
 - 🔸 Projets
   - 🔹 [Mediateck](./projects/mediateck.md)
